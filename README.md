@@ -1,5 +1,4 @@
 # HELLOWORLD
-THIS IS BRAND NEW BEGINNING
 java 程序基本构成
  1. package语句 （0句或1句）
  2. import语句 （0句或多句）  用于导入其他类的类库
